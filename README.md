@@ -23,3 +23,8 @@
 4. References
 >
 > Contains all the references used for the project.
+
+## Instructions to Future Collaborators
+
+- Add files to the appropriate folders
+- Follow the naming conventions while adding new files or folders
